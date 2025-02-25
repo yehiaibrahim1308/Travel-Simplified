@@ -1,7 +1,7 @@
  # Your Daily Commute Made Easy
 My application is an innovative transportation platform designed to enhance urban commuting, similar to SWVL. It features a user-friendly mobile interface that connects passengers to a range of shared transportation options, enabling them to navigate the city with ease. Users can conveniently book rides, making it the perfect solution for daily commuters seeking efficiency and affordability in their travel experiences.
  
-      
+       
 ## How to Interact with My SWVL-Like Application  
 ## - User Registration:
 Kickstart your adventure by creating an account with just a few simple steps. Enter your personal details, including your name, email address, and phone number, to ensure a secure and personalized experience tailored just for you.
